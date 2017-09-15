@@ -84,3 +84,20 @@ li:hover {
 	background-color: #185849;
 	height: 100px;
 }
+
+.menu-list {
+	width: 40%;
+	background-color: #BCFFF0;
+	float: left;
+	height: 715px
+}
+
+.menu-img {
+	width: 60%;
+	background-color: #DDF0FF;
+	float: left;
+}
+
+img {
+	width: 32.8%;
+}
